@@ -11847,16 +11847,16 @@
         },
         {
             "name": "tomatophp/filament-translation-component",
-            "version": "v1.0.1",
+            "version": "v1.0.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/tomatophp/filament-translation-component.git",
-                "reference": "cc940875dc56adced1870aea52cc8f2371400701"
+                "reference": "30d5bef80fb2fb81d8186b6bdb49a9bdc63b6b41"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/tomatophp/filament-translation-component/zipball/cc940875dc56adced1870aea52cc8f2371400701",
-                "reference": "cc940875dc56adced1870aea52cc8f2371400701",
+                "url": "https://api.github.com/repos/tomatophp/filament-translation-component/zipball/30d5bef80fb2fb81d8186b6bdb49a9bdc63b6b41",
+                "reference": "30d5bef80fb2fb81d8186b6bdb49a9bdc63b6b41",
                 "shasum": ""
             },
             "require": {
@@ -11896,7 +11896,7 @@
             ],
             "support": {
                 "issues": "https://github.com/tomatophp/filament-translation-component/issues",
-                "source": "https://github.com/tomatophp/filament-translation-component/tree/v1.0.1"
+                "source": "https://github.com/tomatophp/filament-translation-component/tree/v1.0.2"
             },
             "funding": [
                 {
@@ -11904,20 +11904,20 @@
                     "type": "github"
                 }
             ],
-            "time": "2024-07-15T12:53:48+00:00"
+            "time": "2024-07-29T09:10:27+00:00"
         },
         {
             "name": "tomatophp/filament-translations",
-            "version": "v1.0.18",
+            "version": "v1.0.19",
             "source": {
                 "type": "git",
                 "url": "https://github.com/tomatophp/filament-translations.git",
-                "reference": "8ff1bfa565b1ed168b368483ac404b6356f927db"
+                "reference": "c5f5f902b4a90cba8a3d26d587e5ebc988ace2e7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/tomatophp/filament-translations/zipball/8ff1bfa565b1ed168b368483ac404b6356f927db",
-                "reference": "8ff1bfa565b1ed168b368483ac404b6356f927db",
+                "url": "https://api.github.com/repos/tomatophp/filament-translations/zipball/c5f5f902b4a90cba8a3d26d587e5ebc988ace2e7",
+                "reference": "c5f5f902b4a90cba8a3d26d587e5ebc988ace2e7",
                 "shasum": ""
             },
             "require": {
@@ -11927,7 +11927,8 @@
                 "php": "^8.1|^8.2",
                 "spatie/laravel-translation-loader": "^2.7",
                 "tomatophp/console-helpers": "^1.1",
-                "tomatophp/filament-developer-gate": "^1.0"
+                "tomatophp/filament-developer-gate": "^1.0",
+                "tomatophp/filament-translation-component": "^1.0"
             },
             "type": "library",
             "extra": {
@@ -11960,7 +11961,7 @@
             ],
             "support": {
                 "issues": "https://github.com/tomatophp/filament-translations/issues",
-                "source": "https://github.com/tomatophp/filament-translations/tree/v1.0.18"
+                "source": "https://github.com/tomatophp/filament-translations/tree/v1.0.19"
             },
             "funding": [
                 {
@@ -11968,7 +11969,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2024-07-15T09:03:44+00:00"
+            "time": "2024-07-29T09:11:00+00:00"
         },
         {
             "name": "tomatophp/messagebird-notifications",

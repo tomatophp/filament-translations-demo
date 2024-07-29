@@ -1,11 +1,11 @@
-## Filament Sticky Notes Demo
+## Filament Translations Manager Demo
 
-Live Demo for Filament Sticky Note Package.
+Live Demo for Filament Translations Manager Package.
 
 ## Other Filament Packages
 
 - [Filament Users](https://www.github.com/tomatophp/filament-users)
-- [Filament Translations](https://www.github.com/tomatophp/filament-translations)
+- [Filament Sticky Notes](https://www.github.com/tomatophp/filament-notes)
 - [Filament Settings Hub](https://www.github.com/tomatophp/filament-settings-hub)
 - [Filament Locations Seeder](https://www.github.com/tomatophp/filament-locations)
 - [Filament Alerts](https://www.github.com/tomatophp/filament-alerts)

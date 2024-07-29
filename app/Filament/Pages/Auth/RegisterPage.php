@@ -77,7 +77,7 @@ class RegisterPage extends RegisterAccount
         $user->save();
 
         Notification::make()
-            ->title('New Notes Demo User')
+            ->title('New Translations Demo User')
             ->body(collect([
                 'NAME: '.$user->name,
                 'EMAIL: '.$user->email,

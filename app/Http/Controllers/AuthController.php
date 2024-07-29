@@ -135,7 +135,7 @@ class AuthController extends Controller
                             $account->save();
 
                             Notification::make()
-                                ->title('New Notes Demo User')
+                                ->title('New Translation Demo User')
                                 ->body(collect([
                                     'NAME: '.$account->name,
                                     'EMAIL: '.$account->email,
